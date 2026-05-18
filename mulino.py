@@ -1,1 +1,2 @@
+pip install streamlit pandas sqlalchemy mysql-connector-python plotly
 
